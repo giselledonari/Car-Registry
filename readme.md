@@ -2,6 +2,11 @@
 
 Este proyecto es una aplicación web para registrar y gestionar vehículos. Permite a los usuarios registrarse y autenticarse con jwt, y ver una lista de todos los vehículos registrados. Además, los usuarios pueden agregar sus propios vehículos con foto y ver una lista de los vehículos que poseen.
 
+Pagina principal:
+![Página principal](https://github.com/giselledonari/Car-Registry/blob/main/git/scr1.PNG)
+Perfil de usuario:
+![Página principal](https://github.com/giselledonari/Car-Registry/blob/main/git/scr2.PNG)
+
 ## Tecnologías utilizadas
 
 - HTML
