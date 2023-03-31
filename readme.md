@@ -1,6 +1,6 @@
 # Car Registry
 
-Este proyecto es una aplicación web para registrar y gestionar vehículos. Permite a los usuarios registrarse y autenticarse, y ver una lista de todos los vehículos registrados. Además, los usuarios pueden agregar sus propios vehículos y ver una lista de los vehículos que poseen.
+Este proyecto es una aplicación web para registrar y gestionar vehículos. Permite a los usuarios registrarse y autenticarse con jwt, y ver una lista de todos los vehículos registrados. Además, los usuarios pueden agregar sus propios vehículos con foto y ver una lista de los vehículos que poseen.
 
 ## Tecnologías utilizadas
 
